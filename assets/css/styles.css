@@ -1,0 +1,65 @@
+body{
+	background: DimGrey;
+	color: ;
+	font-family: 'Comfortaa', cursive;
+	font-size: ;
+}
+
+#container{
+	width: 70%;
+	background: LightGray;
+	margin: 20px auto;
+	overflow: auto;
+	padding: 25px;
+}
+
+header{
+	text-align: center;
+	border-bottom: DimGrey dotted 2px;
+}
+
+#timer{
+	font-size: 30px;
+	color: green;
+}
+
+header h1 {
+	margin: 0;
+	padding: 0;
+}
+
+header p {
+	padding: 0;
+	margin-top: 1px;
+}
+
+section{
+	min-height: 400px;
+}
+
+footer{
+	text-align: center;
+}
+
+button{
+	background: DimGrey;
+	border: 0;
+	color: #fff;
+	font-size: 19px;
+	padding: 18px 30px;
+	cursor: pointer;
+	border-radius: 10px;
+}
+
+#startBtn{
+	text-decoration: none;
+	color: white;
+}
+
+.btndiv{
+  display: flex;        
+  justify-content: center;
+  align-items: center;
+  min-height: 400px;
+}
+
